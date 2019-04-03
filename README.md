@@ -5,7 +5,7 @@ This document outlines all software requirements and knowledge needed prior to t
 
 Your Python training is upcoming and we hope you are getting ready for this learning event. Here are a few things to keep in mind before you arrive and as you prepare for the training:
 * Plan to arrive early enough so that we can start on time.
-* Bring your own laptop. Make sure you have installed the appropriate software detailed below in the [Requirements](###Requirements) section.
+* Bring your own laptop. Make sure you have installed the appropriate software detailed below in the [Requirements](http://github.com/pytrain/setup_and_requirements#requirements) section.
 * The tentative [Agenda](http://github.com/pytrain/agenda) is online and will be updated as we make lectures/presentations available.
 * Ask questions! Don't be afraid to ask and it only makes this training better with your participation.
 
